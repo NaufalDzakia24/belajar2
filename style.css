@@ -1,0 +1,24 @@
+.judul {
+    color: rgb(223, 9, 27);
+  font-size: 40;
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  background-color: rgb(6, 6, 6);
+ display: inline;
+  text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    background: green;
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 800;
+    font-size: 100px;
+    cellpadding: 80px;
+    border-radius: 20px;
+}
+
+
+
